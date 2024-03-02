@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Chiu Chiyin is Cantonese pronunciation of my Chinese name 趙子賢
 
 <!--
 **Chiuchiyin/Chiuchiyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
