@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### Chiu Chiyin is Cantonese pronunciation of my Chinese name 趙子賢
-### I'm interested in Machine Learning application in medicine
-### I'm currently doing Bachelor of Science in Computer Science at University of London and Master of Science in Data Science at University of Colorado Boulder
+### 🔭 I'm interested in Machine Learning application in medicine
+### :microscope: I have previously worked in Cadiology research
+### 🌱 I'm currently doing Bachelor of Science in Computer Science at University of London and Master of Science in Data Science at University of Colorado Boulder
 
 <!--
 **Chiuchiyin/Chiuchiyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
