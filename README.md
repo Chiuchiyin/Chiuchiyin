@@ -2,7 +2,7 @@
 ### Chiu Chiyin is Cantonese pronunciation of my Chinese name 趙子賢
 ### I am data scientist with physics background
 ### 🔭 I'm interested in Machine Learning application in medicine
-### :microscope: I have previously worked in Cadiology research
+### :microscope: I have previously worked in Cardiology research
 ### 🌱 I'm currently doing Bachelor of Science in Computer Science at University of London
 
 <!--
