@@ -2,14 +2,13 @@
 ### Chiu Chiyin is Cantonese pronunciation of my Chinese name 趙子賢
 ### I am data scientist with physics background
 ### 🔭 I'm interested in Machine Learning application in medicine
-### :microscope: I have previously worked in Cardiology research
 ### 🌱 I'm currently doing Bachelor of Science in Computer Science at University of London
 
 <!--
 **Chiuchiyin/Chiuchiyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### :microscope: I have previously worked in Cardiology research
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
