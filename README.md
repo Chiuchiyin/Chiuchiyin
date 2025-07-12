@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Chiu Chiyin is Cantonese pronunciation of my Chinese name 趙子賢
 ### I am data scientist with physics background
-### I studied Physics at University of Göttingen and Data Science from University of Colorado
+### I studied Physics at University of Göttingen and Data Science at University of Colorado
 ### 🌱 I'm currently doing Bachelor of Science in Computer Science at University of London
 
 <!--
