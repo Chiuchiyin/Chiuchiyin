@@ -3,6 +3,7 @@
 ### I am data scientist with physics background
 ### I studied Physics at University of Göttingen and Data Science at University of Colorado
 ### 🌱 I'm currently doing Bachelor of Science in Computer Science at University of London
+### 📫 Find me at https://www.chiuchiyin.xyz/
 
 <!--
 **Chiuchiyin/Chiuchiyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
